@@ -1,0 +1,813 @@
+body{
+    background-color: #090564;
+}
+.wrap{
+    width: 2000px;
+    height: 100%;
+}
+.SEARCH{
+    margin-left: 1590px;
+    margin-top: -16px;
+}
+.search{
+    margin-left: 1640px;
+    margin-top: -23px;
+}
+.bir{
+    width: 100%;
+    height: 90px;
+    border: 1px solid black;
+}
+.bir-1--{
+    margin-left: 15px;
+    width: 50px;
+    height: 50px;
+}
+.bir-1{
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    margin-left: 230px;
+    margin-top: -34px;
+    position: absolute;
+}
+.bir-2{
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    margin-top: -34px;
+    margin-left: 368px;
+    position: absolute;
+}
+.bir-3{
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    margin-top: -34px;
+    margin-left: 510px;
+    position: absolute;
+}
+.bir-4{
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    margin-top: -34px;
+    margin-left: 762px;
+    position: absolute;
+}
+.bir-5{
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    margin-top: -34px;
+    margin-left: 1430px;
+    position: absolute;
+}
+.bir-6{
+    width: 30px;
+    height: 30px;
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    margin-left: 1750px;
+    position: absolute;
+    object-fit:cover;
+}
+.bir-7{
+    font-weight: bold;
+    color: grey;
+    font-size: 17px;
+    margin-left: 1650px;
+    position: absolute;
+    margin-top: -8px;
+}
+.bir1{
+    width: 2000px;
+    height: 600px;
+    display: inline-block;
+}
+.bir1-1{
+   margin-left: 255px;
+    margin-top: 220px;
+    width: 450px;
+    height: 300px;
+    color: white;
+    display: inline-block;
+}
+.text1{
+    margin-top: -10px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+.text2{
+    width: 350px;
+    height: 20px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 3px solid blue;
+    border-radius: 30px;
+}
+.rasm1{
+    margin-left: 560px;
+    margin-top: -460px;
+    display: inline-block;
+}
+.text2:hover{
+    height: 22px;
+    background-color: blue;
+    transform: scale(1);
+    transition: 0.5s;
+}
+.text3{
+    width: 120px;
+    height: 120px;
+    border-radius: 50px;
+}
+.bir41{
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+.uzun1{
+    width: 1200px;
+    border-bottom: 3px solid #2222be;
+    margin-top: 20px;
+}
+.aylana11{
+    width: 7px;
+    height: 7px;
+    margin-top: -5px;
+    background-color: #2222be;
+    border-radius: 5px;
+}
+.aylana21{
+    width: 7px;
+    height: 7px;
+    margin-left: 1200px;
+    margin-top: -7px;
+    background-color:#2222be;
+    border-radius: 5px;
+}
+.bir2{
+    width: 2000px;
+    height: 200px;
+}
+.bir2-1{
+    width: 500px;
+    height: 400px;
+    margin-left: 340px;
+}
+.text4{
+    color: white;
+    margin-top: 0;
+    font-size:60px;
+    font-weight: bold;
+}
+.text5{
+    margin-top: -45px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.text6{
+    margin-top: -20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.bir3{
+    width: 2000px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left:300px;
+}
+.bir3-1{
+    width: 230px;
+    height: 300px;
+    border: 2px solid#2222be;
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+}
+.rasm3{
+    margin-left: 160px;
+    margin-top: 15px;
+}
+.text7{
+    color: white;
+    font-size:17px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.text8{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.bir3-2{
+    width: 230px;
+    height: 300px;
+    border: 2px solid #2222be;
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+}
+.rasm4{
+    margin-left: 160px;
+    margin-top: 15px;
+}
+.text9{
+    color: white;
+    font-size:17px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.text10{
+    margin-top: -10px;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.bir3-3{
+    width: 230px;
+    height: 300px;
+    border: 2px solid #2222be;
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+}
+.rasm5{
+    margin-left: 160px;
+    margin-top: 15px;
+}
+.text11{
+    color: white;
+    font-size:17px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.text12{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.bir3-4{
+    width: 230px;
+    height: 300px;
+    border: 2px solid #2222be;
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+}
+.rasm6{
+    margin-left: 160px;
+    margin-top: 15px;
+}
+.text13{
+    color: white;
+    font-size:17px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.text14{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.chiziq1{
+    width: 230px;
+    border-bottom: 3px solid royalblue;
+    margin-top: -15px;
+}
+.chiziq2{
+    width: 230px;
+    border-bottom: 3px solid royalblue;
+    margin-top: -2px;
+}
+.chiziq3{
+    width: 230px;
+    border-bottom: 3px solid royalblue;
+    margin-top:10px;
+}
+.chiziq4{
+     width: 230px;
+     border-bottom: 3px solid royalblue;
+     margin-top: -17px;
+ }
+.bir3-1:hover{
+    width: 230px;
+    height: 300px;
+
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 0 0 13px rgb(248, 248, 248);
+}
+.bir3-2:hover{
+    width: 230px;
+    height: 300px;
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 0 0 13px rgb(248, 248, 248);
+}
+.bir3-3:hover{
+    width: 230px;
+    height: 300px;
+
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 0 0 13px rgb(248, 248, 248);
+}
+.bir3-4:hover{
+    width: 230px;
+    height: 300px;
+    border-radius: 40px;
+    float: left;
+    margin-left: 20px;
+    box-shadow:0 0 15px rgb(248, 248, 248);
+}
+.bir3-5{
+    width: 300px;
+    height: 50px;
+    border: 1px solid #2222be;
+    border-radius: 40px;
+    text-align: center;
+    margin-left: 33.5%;
+    margin-top: -100px;
+    color: white;
+}
+.rasm7{
+    margin: 5px;
+    float: left;
+}
+.text15{
+    margin-left: 10px;
+    float: left;
+}
+.bir3-5:hover{
+    width: 300px;
+    height: 50px;
+    border: 1px solid #2222be;
+    border-radius: 40px;
+    background-color: blue;
+    text-align: center;
+    margin-left: 33.5%;
+    margin-top: -100px;
+    color: white;
+    transition: 1s;
+}
+.bir4{
+    margin-left: 230px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.uzun{
+    width: 1200px;
+    border-bottom: 3px solid #2222be;
+    margin-top: 20px;
+}
+.aylana1{
+    width: 7px;
+    height: 7px;
+    margin-top: -5px;
+    background-color: #2222be;
+    border-radius: 5px;
+}
+.aylana2{
+    width: 7px;
+    height: 7px;
+    margin-left: 1200px;
+    margin-top: -7px;
+    background-color:#2222be;
+    border-radius: 5px;
+}
+.bir5{
+    width:1200px ;
+    height: 130px;
+    margin-left:230px;
+    margin-bottom: 30px;
+}
+.bir5-1{
+    width: 30px;
+    float: left;
+}
+.bir5-2{
+    margin-left: 230px;
+    width: 30px;
+    float: left;
+}
+.bir5-3{
+    margin-left:250px;
+    width: 30px;
+    float: left;
+}
+.bir5-4{
+    margin-left:240px;
+    float: left;
+}
+.bir5-5{
+    margin-left: 140px;
+    float: left;
+}
+.bir6{
+    width:950px ;
+    height: 130px;
+    margin-left:370px;
+}
+.bir6-1{
+    float: left;
+}
+.bir6-2{
+    margin-left: 130px;
+    float: left;
+}
+.bir6-3{
+    margin-left: 160px;
+    float: left;
+}
+.bir6-4{
+    margin-left: 160px;
+     float: left;
+ }
+.yozuv{
+    width: 220px;
+    height: 50px;
+    border: 2px solid #2222be;
+    border-radius: 40px;
+    margin-left:35%;
+    margin-top: 70px;
+    padding-left: 30px;
+    color: white;
+    font-size: 18px;
+}
+.yozuv:hover{
+    width: 220px;
+    height: 50px;
+    border: 2px solid #2222be;
+    border-radius: 40px;
+    margin-left:35%;
+    margin-top: 70px;
+    padding-left: 30px;
+    color: white;
+    background-color: #2222be;
+    font-size: 18px;
+    transition: 1s;
+}
+.bir42{
+    margin-left: 230px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.uzun2{
+    width: 1200px;
+    border-bottom: 3px solid #2222be;
+    margin-top: 20px;
+}
+.aylana12{
+    width: 7px;
+    height: 7px;
+    margin-top: -5px;
+    background-color: #2222be;
+    border-radius: 5px;
+}
+.aylana22{
+    width: 7px;
+    height: 7px;
+    margin-left: 1200px;
+    margin-top: -7px;
+    background-color:#2222be;
+    border-radius: 5px;
+}
+.bir7{
+    width: 1200px;
+    height: 320px;
+    margin-left: 275px;
+}
+.bir7-1{
+    width: 300px;
+    height: 310px;
+    border: 3px solid #2222be;
+    border-radius: 40px;
+    background-image: url("../rasmlar/rasm8.PNG") ;
+    background-position: center;
+    position: absolute;
+}
+.bir7-2{
+    width: 300px;
+    height: 310px;
+    border: 3px solid #2222be;
+    border-radius: 40px;
+    background-image: url("../rasmlar/rasm6.PNG") ;
+    background-position: center;
+    position: absolute;
+}
+.bir7-3{
+    width: 300px;
+    height: 310px;
+    border: 3px solid #2222be;
+    border-radius: 40px;
+    background-image: url("../rasmlar/rasm7.PNG") ;
+    background-position: center;
+    position: absolute;
+}
+.ikki1{
+    width: 320px;
+    height: 470px;
+    float: left;
+    transition: 1s;
+
+}
+.ikki2{
+    width: 320px;
+    height: 470px;
+    margin-left: 90px;
+    float: left;
+    transition: 1s;
+}
+.ikki3{
+    width: 320px;
+    height: 470px;
+    margin-left: 90px;
+    float: left;
+    transition: 1s;
+}
+.matn{
+    color: #2222be;
+    font-size: 25px;
+    margin-top: 330px;
+    margin-left: 20px;
+}
+.matn1{
+    color: white;
+    font-size: 30px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.matn2{
+    color: #2222be;
+    font-size: 25px;
+    margin-top: 330px;
+    margin-left: 20px;
+}
+.matn3{
+    color: white;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.matn4{
+    color: #2222be;
+    font-size: 25px;
+    margin-top: 330px;
+    margin-left: 20px;
+}
+.matn5{
+    color: white;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.ikki1:hover{
+    width: 320px;
+    height: 470px;
+    float: left;
+    border-bottom: 15px solid #2222be;
+    transform: translate(0, -25px);
+}
+.ikki2:hover{
+    width: 320px;
+    height: 470px;
+    margin-left: 90px;
+    border-bottom: 15px solid #2222be;
+    float: left;
+    transform: translate(0, -25px);
+}
+.ikki3:hover{
+    width: 320px;
+    height: 470px;
+    margin-left: 90px;
+    float: left;
+    border-bottom: 15px solid #2222be;
+    transform: translate(0, -25px);
+}
+.bir43{
+    margin-left: 230px;
+    margin-top: 350px;
+    margin-bottom: 100px;
+}
+.uzun3{
+    width: 1200px;
+    border-bottom: 3px solid #2222be;
+    margin-top: 20px;
+}
+.aylana13{
+    width: 7px;
+    height: 7px;
+    margin-top: -5px;
+    background-color: #2222be;
+    border-radius: 5px;
+}
+.aylana33{
+    width: 7px;
+    height: 7px;
+    margin-left: 1200px;
+    margin-top: -7px;
+    background-color:#2222be;
+    border-radius: 5px;
+}
+.bir8{
+    margin-left: 240px;
+}
+.uch1{
+    width: 300px;
+    height: 770px;
+    float: left;
+    color: #f1f1f1;
+    font-weight: bold;
+}
+.uch2{
+    width: 300px;
+    height: 770px;
+    float: left;
+    color: #f1f1f1;
+    font-weight: bold;
+}
+.uch3{
+    width: 300px;
+    height: 770px;
+    float: left;
+    color: #f1f1f1;
+    font-weight: bold;
+}
+.uch4{
+    width: 300px;
+    height: 770px;
+    float: left;
+    color: #f1f1f1;
+    font-weight: bold;
+}
+.navbar{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.bir9{
+    width: 1300px;
+    height: 600px;
+    margin-left: 250px;
+}
+.tort1{
+    margin-top: 100px;
+    width:300px;
+    height: 300px;
+    float: left;
+    color: white;
+    margin-left: 20px;
+}
+.qongiroq{
+    width: 200px;
+    height: 40px;
+    border: 1px solid #a7370b;
+    border-radius: 30px;
+    color: white;
+}
+.qongiroq:hover{
+    width: 200px;
+    height: 40px;
+    background-color: #a7370b;
+    border-radius: 30px;
+    color: white;
+    transition: 1s;
+}
+.navbar2{
+    margin-top: -35px;
+    margin-left: 40px;
+}
+.navbar1{
+    color: white;
+}
+.tort2{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    float: left;
+    color: white;
+    margin-left: 20px;
+
+}
+.tort3{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    float: left;
+    margin-left: 20px;
+    color: white;
+}
+.tort4{
+    width:300px;
+    height: 300px;
+    margin-top: 100px;
+    float: left;
+    color: white;
+    margin-left: 20px;
+}
+.menu1{
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+    border: 4px solid #2222be;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+.menu1{
+    width: 50px;
+    height: 50px;
+    border: 4px solid #2222be;
+    border-radius: 20px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.menu2{
+    width: 50px;
+    height: 50px;
+    border: 4px solid #2222be;
+    border-radius: 20px;
+    float: left;
+    margin-left: 5px;
+}
+.menu3{
+    width: 50px;
+    height: 50px;
+    border: 4px solid #2222be;
+    border-radius: 20px;
+    float: left;
+    margin-left: 5px;
+}
+.menu4{
+    width: 50px;
+    height: 50px;
+    border: 4px solid #2222be;
+    border-radius: 20px;
+    float: left;
+    margin-left: 5px;
+}
+.bir10{
+    width: 1500px;
+    height: 100px;
+    margin-top:500px;
+}
+.besh{
+    color: #f1f1f1;
+    position: absolute;
+    float: left;
+    margin-left: 260px;
+    margin-top: 70px;
+}
+.olti{
+    position: absolute;
+    float: left;
+    margin-top: -90px;
+    margin-left: 1300px;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.fixed{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid royalblue;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    border-radius: 50px;
+    background-image: url("../rasmlar/totop.svg");
+    background-color: royalblue;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
+
